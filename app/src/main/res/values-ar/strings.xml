@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="app_name">Software Quiz App</string>
+    <string name="tiltle">اختبار برمجيات</string>
+    <string name="play">أبدا</string>
+    <string name="exit">خروج</string>
+    <string name="total_questions">إجمالي عدد الاسئلة</string>
+    <string name="this_will_be_the_question">هذا سيكون السوال</string>
+    <string name="ans_a">أ</string>
+    <string name="ans_b">ب</string>
+    <string name="ans_c">ج</string>
+    <string name="ans_d">د</string>
+    <string name="submit">تقدم</string>
+    <string name="_00_30">٠:٣٠</string>
+</resources>
